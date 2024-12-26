@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33214102311",
+    "project_id": "fitapp-84a14",
+    "storage_bucket": "fitapp-84a14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33214102311:android:ca213d5aefd11a804a4702",
+        "android_client_info": {
+          "package_name": "com.example.healthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33214102311-rog4ihh9lqql49lr4ivdc0rhc81j9pj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvb-23RBrMGEIk7gCF18Fhr4SLV5pPesg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33214102311-rog4ihh9lqql49lr4ivdc0rhc81j9pj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
